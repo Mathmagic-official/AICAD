@@ -1,5 +1,5 @@
-:HL["/Mathmagic-official/AICAD/_next/static/chunks/0kyoaelcafk07.css","style"]
-:HL["/Mathmagic-official/AICAD/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Mathmagic-official/AICAD/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Mathmagic-official/AICAD/_next/static/chunks/0osym1pd2p95b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"95mj3pwp3PzotpWSDsTzM"}
+:HL["/AICAD/_next/static/chunks/06unv0f6st-_n.css","style"]
+:HL["/AICAD/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/AICAD/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/AICAD/_next/static/chunks/0osym1pd2p95b.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"9QfxRvSN7Ac9qPeNG0S0q"}

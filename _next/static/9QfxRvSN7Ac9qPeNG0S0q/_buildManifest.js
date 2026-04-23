@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/Mathmagic-official/AICAD//_next/:path+",
-        "destination": "/Mathmagic-official/AICAD/_next/:path+"
+        "source": "/AICAD//_next/:path+",
+        "destination": "/AICAD/_next/:path+"
       }
     ],
     "fallback": []
