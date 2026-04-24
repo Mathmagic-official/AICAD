@@ -1,5 +1,5 @@
-:HL["/AICAD/_next/static/chunks/0zk87.vurf9a~.css","style"]
+:HL["/AICAD/_next/static/chunks/04s1lc_8x5h65.css","style"]
 :HL["/AICAD/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/AICAD/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/AICAD/_next/static/chunks/11.jl2ass1pbc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"iX7Y8IpnaiNWNCdM1lxW4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"rR5Ncz93YTygBJeoK1oLg"}
