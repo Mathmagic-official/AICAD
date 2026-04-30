@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[19487,["/AICAD/_next/static/chunks/01xlw8hd842-c.js","/AICAD/_next/static/chunks/0d3shmwh5_nmn.js","/AICAD/_next/static/chunks/02q_2erb1td_x.js","/AICAD/_next/static/chunks/0zkamfe6.r1el.js"],"CompetitionPage"]
+2:I[19487,["/AICAD/_next/static/chunks/01xlw8hd842-c.js","/AICAD/_next/static/chunks/0d3shmwh5_nmn.js","/AICAD/_next/static/chunks/02q_2erb1td_x.js","/AICAD/_next/static/chunks/14tq62drs56qj.js"],"CompetitionPage"]
 3:I[97367,["/AICAD/_next/static/chunks/01xlw8hd842-c.js","/AICAD/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/AICAD/_next/static/chunks/08r_vt_keasdu.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/AICAD/_next/static/chunks/08r_vt_keasdu.css","precedence":"next"}],["$","script","script-0",{"src":"/AICAD/_next/static/chunks/02q_2erb1td_x.js","async":true}],["$","script","script-1",{"src":"/AICAD/_next/static/chunks/0zkamfe6.r1el.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"14TvnVGxU3Oiv8FQ-8UT4"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/AICAD/_next/static/chunks/08r_vt_keasdu.css","precedence":"next"}],["$","script","script-0",{"src":"/AICAD/_next/static/chunks/02q_2erb1td_x.js","async":true}],["$","script","script-1",{"src":"/AICAD/_next/static/chunks/14tq62drs56qj.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JUtUFnPR57lRcgYcqMjzC"}
 5:null
