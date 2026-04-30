@@ -1,2 +1,2 @@
-:HL["/AICAD/_next/static/chunks/0ofxpz52wf.lx.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"siqcaHg_berkcQc8Utq-X"}
+:HL["/AICAD/_next/static/chunks/0ny~743u64zi4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"14TvnVGxU3Oiv8FQ-8UT4"}
